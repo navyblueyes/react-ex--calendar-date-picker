@@ -19,28 +19,6 @@ button {
   font-family: 'Balsamiq Sans', cursive !important;
 }
 
-.date-chooser {
-  display: flex;
-  margin-bottom: 20px;
-}
-
-.date-chooser-button {
-  color: #0b204c;
-  text-transform: uppercase;
-  flex: 1;
-  padding: 15px;
-  background: none;
-  cursor: pointer;
-  border: none;
-  border-bottom: 2px solid rgba(11, 32, 76, 0.2);
-  outline: none;
-}
-
-.date-chooser-button span {
-  display: block;
-  min-height: 60px;
-  font-size: 50px;
-}
 
 .calendar {
   max-width: 400px;
